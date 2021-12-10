@@ -483,3 +483,9 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+
+
+.goog-te-banner{
+  display: none !important;
+}
